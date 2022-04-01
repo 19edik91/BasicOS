@@ -26,3 +26,6 @@
 [submodule "OS_SystemTimers"]
 	path = OS_SystemTimers
 	url = git@bitbucket.org:dot-home/os_systemtimers.git
+[submodule "OS_CRC"]
+	path = OS_CRC
+	url = git@bitbucket.org:dot-home/os_crc.git
