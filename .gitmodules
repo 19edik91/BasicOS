@@ -29,3 +29,6 @@
 [submodule "OS_CRC"]
 	path = OS_CRC
 	url = git@bitbucket.org:dot-home/os_crc.git
+[submodule "BaseTypes"]
+	path = BaseTypes
+	url = git@bitbucket.org:dot-home/basetypes.git
