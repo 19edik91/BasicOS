@@ -32,3 +32,6 @@
 [submodule "BaseTypes"]
 	path = BaseTypes
 	url = git@bitbucket.org:dot-home/basetypes.git
+[submodule "OS_States"]
+	path = OS_States
+	url = git@bitbucket.org:dot-home/os_states.git
