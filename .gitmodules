@@ -2,9 +2,6 @@
 	path = OS_Communication
 	url = git@bitbucket.org:dot-home/os_communication.git
 	branch = master
-[submodule "OS_ErrorDebouncer"]
-	path = OS_ErrorDebouncer
-	url = git@bitbucket.org:dot-home/os_errordebouncer.git
 [submodule "OS_ErrorHandling"]
 	path = OS_ErrorHandling
 	url = git@bitbucket.org:dot-home/os_errorhandling.git
