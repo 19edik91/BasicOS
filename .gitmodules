@@ -17,9 +17,6 @@
 [submodule "OS_StateManager"]
 	path = OS_StateManager
 	url = git@bitbucket.org:dot-home/os_statemanager.git
-[submodule "OS_SystemFaults"]
-	path = OS_SystemFaults
-	url = git@bitbucket.org:dot-home/os_systemfaults.git
 [submodule "OS_SystemTimers"]
 	path = OS_SystemTimers
 	url = git@bitbucket.org:dot-home/os_systemtimers.git
